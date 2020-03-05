@@ -1,2 +1,2 @@
 Hello, World!
-First you add everything, then you commit everything.
+First you add everything, then you commit everything and then push the changes!
