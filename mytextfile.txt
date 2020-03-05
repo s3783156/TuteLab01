@@ -1,1 +1,2 @@
 Hello, World!
+First you add everything, then you commit everything.
